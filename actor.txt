@@ -1,3 +1,9 @@
 Ranbir kapoor
 Ranveer Singh
 Akshay Kumar
+<<<<<<< Updated upstream
+Saif Ali
+=======
+Saif Ali
+Kartik Aryan
+>>>>>>> Stashed changes
